@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3", 
+    "start": "^5.1.0"
+  },
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jragard/social-media-queries.git",
+  "author": "Ryan <jragard@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  }
+}
